@@ -119,14 +119,3 @@ Stores **durable knowledge and historical context** across sessions.
 - Enables intelligent, context-aware agents
 
 ---
-
-## 🧠 Summary
-
-The **multi-agentic framework** combined with a **three-tier memory model (STM, WM, LTM)** enables:
-
-- Intelligent orchestration
-- Context-aware conversations
-- Safe long-term learning
-- Enterprise-grade scalability
-
-This design ensures the system remains **modular, explainable, and future-proof**.
